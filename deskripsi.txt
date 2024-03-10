@@ -1,0 +1,8 @@
+ini adalah repository untuk tugas kelompok Mata Kuliah Manajemen Proyek Prodi Ilmu Komputer Universitas Bina Bangsa
+Project yang akan dibuat adalah e-commerce berbasis web menggunakan payment gateway 
+  Kelompok ini beranggotakan 5 orang :
+      1. Solehudin
+      2. Agung Dumadi
+      3. Mudofar
+      4. Siti Bunga Cinta
+      5. Jalis
