@@ -4,4 +4,5 @@ Project yang akan dibuat adalah e-commerce berbasis web menggunakan payment gate
       1. Solehudin
       2. Mudofar
       3. Siti Bunga
-
+      4. Agung Dumadi
+      5. Jalis
