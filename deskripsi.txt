@@ -2,4 +2,6 @@ ini adalah repository untuk tugas kelompok Mata Kuliah Manajemen Proyek Prodi Il
 Project yang akan dibuat adalah e-commerce berbasis web menggunakan payment gateway 
   Kelompok ini beranggotakan 5 orang :
       1. Solehudin
-      
+      2. Mudofar
+      3. Siti Bunga
+
